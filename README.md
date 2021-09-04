@@ -1,4 +1,4 @@
-# diretivas-exercicios
+# exerciciosFiltros
 
 ## Project setup
 ```
